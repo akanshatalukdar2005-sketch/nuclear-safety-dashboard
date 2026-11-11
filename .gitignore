@@ -1,0 +1,6 @@
+# Local SQLite data and Python cache files
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.py[cod]
